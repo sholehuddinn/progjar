@@ -28,7 +28,7 @@ Jika proyek berisi kode:
 1. Clone repositori
 
    ```bash
-   git clone <url-repo>
+   git clone https://github.com/sholehuddinn/progjar
    ```
 2. Masuk ke folder
 
